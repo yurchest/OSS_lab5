@@ -28,5 +28,5 @@
 ![image](https://user-images.githubusercontent.com/61864601/168562849-4a345f5e-80d6-4ea4-9582-32474978159b.png)
 
 ----------
-С кодом можно ознкомиться в файле lab5.cpp
-see documentation [here](./lab5.cpp)
+С кодом программы можно ознакомиться в файле [lab5.cpp](./lab5.cpp)
+
